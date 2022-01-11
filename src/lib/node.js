@@ -1,7 +1,7 @@
 /**
  * Node is used to store values in a LinkedList
  */
-class Node {
+ class Node {
   constructor(value, next = null) {
     this.value = value;
     this.next = next;
